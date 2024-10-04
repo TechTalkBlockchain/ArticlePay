@@ -20,7 +20,7 @@ The **Article Reward with Quiz** smart contract allows readers to earn ART token
 1. Clone the repository:
     ```bash
     git clone https://github.com/TechTalkBlockchain/ArticlePay
-    cd article-reward-quiz
+    cd ArticlePay
     ```
 
 2. Install dependencies:
