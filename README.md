@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Article Reward with Quiz** smart contract allows readers to earn ERC20 tokens for every article they read. Users can read articles and, if required, complete a quiz to claim their rewards. This incentivizes reading and engagement with content, while ensuring that users are actively participating through quizzes.
+The **Article Reward with Quiz** smart contract allows readers to earn ART tokens for every article they read. Users can read articles and, if required, complete a quiz to claim their rewards. This incentivizes reading and engagement with content, while ensuring that users are actively participating through quizzes.
 
 ## Features
 
